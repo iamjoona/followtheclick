@@ -5,7 +5,7 @@ date: 2017-03-18 11:32:35
 
 
 
-This site has been built using JAMstack, which just refers to JavaScript, APIs and Markup. That means that there are no CMS behind this whole site. 
+This site has been built using JAMstack, which just refers to JavaScript, APIs and Markup. That means that there are no CMS behind this whole site.
 
 The lack of CMS means that there are no databases which would serve the content. It also means that the way how I edit and build this site is err.... a little bit more nerdy.
 
