@@ -15,7 +15,7 @@ timezone:
 url: https://followthe.click
 root: /
 permalink: :title/
-permalink_defaults:
+# permalink_defaults:
 
 # Directory
 source_dir: source
@@ -69,4 +69,6 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  repo: https://github.com/iamjoona/followtheclick
+  branch: master
 
