@@ -71,4 +71,5 @@ deploy:
   type: git
   repo: https://github.com/iamjoona/followtheclick
   branch: master
+  site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
 
